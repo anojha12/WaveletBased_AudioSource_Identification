@@ -3,8 +3,7 @@
 This project implements musical source identification using **raw waveform CNN (WaveRCNN)** and **wavelet-transformed CNN (DWT-CNN)** models. 
 It includes preprocessing scripts to create synthetic mixtures, training scripts, evaluation scripts, and testing under noisy conditions.
 
-This project uses the MUSDB18 dataset, available here:
-MUSDB18 Dataset which can be downloaded from: https://zenodo.org/records/1117372
+This project uses the MUSDB18 dataset, available here: https://zenodo.org/records/1117372
 After downloading, place the dataset in the project root
 **Setup:**
 ```bash
