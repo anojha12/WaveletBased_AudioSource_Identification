@@ -6,9 +6,13 @@ It includes preprocessing scripts to create synthetic mixtures, training scripts
 This project uses the MUSDB18 dataset, available here:
 MUSDB18 Dataset which can be downloaded from: https://zenodo.org/records/1117372
 After downloading, place the dataset in the project root
+**Setup:**
+```bash
+# After downloading, place the dataset in the project root
 ├── MUSDB18/
 │   ├── train/
 │   └── test/
+```
 
 ## Pipeline
 
